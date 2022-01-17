@@ -16,3 +16,4 @@ resources:
             members:
               - group:admins@example.com
               - domain:example.com
+              decription for google service 
